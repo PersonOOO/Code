@@ -1,0 +1,3 @@
+C:\Users\Umerk\code\CodeTestingApp1\CodeTestingApp1\obj\Debug\CodeTestingApp1.njsprojAssemblyReference.cache
+C:\Users\Umerk\code\CodeTestingApp1\CodeTestingApp1\obj\Debug\CodeTestingApp1.njsproj.CoreCompileInputs.cache
+C:\Users\Umerk\code\CodeTestingApp1\CodeTestingApp1\bin\Microsoft.NodejsTools.WebRole.dll
